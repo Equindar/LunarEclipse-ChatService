@@ -33,7 +33,7 @@ body:
     attributes:
       label: Expected behavior
       description: Brief description of the new optimized workflow/result
-        validations:
+    validations:
       required: true
   - type: textarea
     id: boundaries
